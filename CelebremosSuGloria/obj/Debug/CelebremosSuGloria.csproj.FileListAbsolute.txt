@@ -1,0 +1,16 @@
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\bin\Debug\CelebremosSuGloria.exe.config
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\bin\Debug\CelebremosSuGloria.exe
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\bin\Debug\CelebremosSuGloria.pdb
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.csprojResolveAssemblyReference.cache
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Form1.resources
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Principales.Mesage.resources
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Properties.Resources.resources
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.csproj.GenerateResource.Cache
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.exe
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.pdb
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\Interop.WMPLib.dll
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.csproj.ResolveComReference.cache
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\bin\Debug\Interop.WMPLib.dll
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_2.resources
