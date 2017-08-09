@@ -70,6 +70,24 @@
     <Compile Include="Himnos\Himno 5.Designer.cs">
       <DependentUpon>Himno 5.cs</DependentUpon>
     </Compile>
+    <Compile Include="Himnos\Himno 7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 7.Designer.cs">
+      <DependentUpon>Himno 7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Himnos\Himno 8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 8.Designer.cs">
+      <DependentUpon>Himno 8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Himnos\Himno 9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 9.Designer.cs">
+      <DependentUpon>Himno 9.cs</DependentUpon>
+    </Compile>
     <Compile Include="Principales\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -101,6 +119,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Himnos\Himno 5.resx">
       <DependentUpon>Himno 5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 7.resx">
+      <DependentUpon>Himno 7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 8.resx">
+      <DependentUpon>Himno 8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 9.resx">
+      <DependentUpon>Himno 9.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Principales\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -380,6 +407,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Diapositiva68.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue-box-minimizar-icono-5917-128.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -181,5 +181,31 @@ namespace CelebremosSuGloria
             Principales.Message frm = new Principales.Message();
             frm.Show();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_7 frm = new Himnos.Himno_7();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_8 frm = new Himnos.Himno_8();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_9 frm = new Himnos.Himno_9();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
     }
 }

@@ -18,3 +18,6 @@ C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Deb
 C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_4.resources
 C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_5.resources
 C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Principales.Message.resources
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_7.resources
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_8.resources
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_9.resources

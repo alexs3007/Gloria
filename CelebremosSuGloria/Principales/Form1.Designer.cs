@@ -128,6 +128,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.pcb1 = new System.Windows.Forms.PictureBox();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pcbCerrar = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.pnlCat3 = new System.Windows.Forms.Panel();
@@ -741,6 +742,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pcb4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcb1)).BeginInit();
             this.panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcbCerrar)).BeginInit();
             this.pnlCat3.SuspendLayout();
             this.pnlCat2.SuspendLayout();
@@ -2009,6 +2011,7 @@
             this.button7.TabIndex = 142;
             this.button7.Text = "9";
             this.button7.UseVisualStyleBackColor = false;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // button8
             // 
@@ -2025,6 +2028,7 @@
             this.button8.TabIndex = 141;
             this.button8.Text = "8";
             this.button8.UseVisualStyleBackColor = false;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // button3
             // 
@@ -2041,6 +2045,7 @@
             this.button3.TabIndex = 140;
             this.button3.Text = "7";
             this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
@@ -2326,12 +2331,25 @@
             this.panel1.BackColor = System.Drawing.Color.Transparent;
             this.panel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel1.BackgroundImage")));
             this.panel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Controls.Add(this.pcbCerrar);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Location = new System.Drawing.Point(-3, -3);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1407, 115);
             this.panel1.TabIndex = 11;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox1.BackgroundImage = global::CelebremosSuGloria.Properties.Resources.blue_box_minimizar_icono_5917_128;
+            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBox1.Location = new System.Drawing.Point(1254, 9);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(45, 45);
+            this.pictureBox1.TabIndex = 216;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // pcbCerrar
             // 
@@ -12517,6 +12535,7 @@
             this.Controls.Add(this.pnlCat2);
             this.Controls.Add(this.pnlCat3);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.IsMdiContainer = true;
             this.Name = "Form1";
             this.Text = "Form1";
@@ -12535,6 +12554,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pcb1)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcbCerrar)).EndInit();
             this.pnlCat3.ResumeLayout(false);
             this.pnlCat2.ResumeLayout(false);
@@ -13251,6 +13271,7 @@
         private System.Windows.Forms.Button button397;
         private System.Windows.Forms.Button button398;
         private System.Windows.Forms.Button button399;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 

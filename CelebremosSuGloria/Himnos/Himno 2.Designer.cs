@@ -35,17 +35,12 @@
             this.pcbStop = new System.Windows.Forms.PictureBox();
             this.pcbPlay = new System.Windows.Forms.PictureBox();
             this.pcbHimno2 = new System.Windows.Forms.PictureBox();
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.label1 = new System.Windows.Forms.Label();
             this.pbcHimno2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.wmp1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcbPausa)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcbStop)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcbPlay)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcbHimno2)).BeginInit();
-            this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // pbcHimno2
@@ -107,56 +102,25 @@
             // pcbHimno2
             // 
             this.pcbHimno2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pcbHimno2.Location = new System.Drawing.Point(1, 30);
+            this.pcbHimno2.Location = new System.Drawing.Point(1, 3);
             this.pcbHimno2.Name = "pcbHimno2";
-            this.pcbHimno2.Size = new System.Drawing.Size(1378, 750);
+            this.pcbHimno2.Size = new System.Drawing.Size(1378, 738);
             this.pcbHimno2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pcbHimno2.TabIndex = 2;
             this.pcbHimno2.TabStop = false;
-            // 
-            // panel1
-            // 
-            this.panel1.BackColor = System.Drawing.SystemColors.Highlight;
-            this.panel1.Controls.Add(this.label1);
-            this.panel1.Controls.Add(this.pictureBox1);
-            this.panel1.Location = new System.Drawing.Point(-1, 0);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1380, 30);
-            this.panel1.TabIndex = 3;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.BackgroundImage = global::CelebremosSuGloria.Properties.Resources.cerrar;
-            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Location = new System.Drawing.Point(1341, 3);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(25, 25);
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Comic Sans MS", 15.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(3, 1);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(218, 29);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Celebremos su Gloria";
             // 
             // Himno_2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1378, 780);
-            this.Controls.Add(this.panel1);
+            this.ClientSize = new System.Drawing.Size(1362, 741);
             this.Controls.Add(this.pbcHimno2);
             this.Controls.Add(this.pcbHimno2);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Himno_2";
-            this.Text = "Himno_2";
+            this.Text = "Celebremos su Gloria";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Himno_2_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Himno_2_KeyDown);
@@ -166,9 +130,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pcbStop)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcbPlay)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcbHimno2)).EndInit();
-            this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -181,8 +142,5 @@
         private System.Windows.Forms.PictureBox pcbStop;
         private AxWMPLib.AxWindowsMediaPlayer wmp1;
         private System.Windows.Forms.PictureBox pcbHimno2;
-        private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.Label label1;
     }
 }
