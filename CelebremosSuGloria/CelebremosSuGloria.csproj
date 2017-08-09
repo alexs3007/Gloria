@@ -52,6 +52,24 @@
     <Compile Include="Himnos\Himno 2.Designer.cs">
       <DependentUpon>Himno 2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Himnos\Himno 3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 3.Designer.cs">
+      <DependentUpon>Himno 3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Himnos\Himno 4 .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 4 .Designer.cs">
+      <DependentUpon>Himno 4 .cs</DependentUpon>
+    </Compile>
+    <Compile Include="Himnos\Himno 5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 5.Designer.cs">
+      <DependentUpon>Himno 5.cs</DependentUpon>
+    </Compile>
     <Compile Include="Principales\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,16 +82,34 @@
     <Compile Include="Principales\Mesage.Designer.cs">
       <DependentUpon>Mesage.cs</DependentUpon>
     </Compile>
+    <Compile Include="Principales\Message.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principales\Message.Designer.cs">
+      <DependentUpon>Message.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Himnos\Himno 2.resx">
       <DependentUpon>Himno 2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 3.resx">
+      <DependentUpon>Himno 3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 4 .resx">
+      <DependentUpon>Himno 4 .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 5.resx">
+      <DependentUpon>Himno 5.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Principales\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Principales\Mesage.resx">
       <DependentUpon>Mesage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principales\Message.resx">
+      <DependentUpon>Message.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -221,6 +257,129 @@
       <Isolated>False</Isolated>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva28.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva29.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva30.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva31.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva32.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva33.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva34.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva35.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva36.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva37.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva38.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva39.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva40.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva41.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva42.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva43.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva44.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva45.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva46.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva47.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva48.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva49.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva50.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva51.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva52.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva53.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva54.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva55.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva56.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva57.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva58.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva59.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva60.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva61.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva62.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva63.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva64.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva65.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva66.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva67.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva68.JPG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

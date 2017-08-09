@@ -154,5 +154,32 @@ namespace CelebremosSuGloria
             frm.Show();
             pnlCat1.Visible = false;
         }
+
+        private void bnt3_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_3 frm = new Himnos.Himno_3();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void btn4_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_4 frm = new Himnos.Himno_4();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_5 frm = new Himnos.Himno_5();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Principales.Message frm = new Principales.Message();
+            frm.Show();
+        }
     }
 }

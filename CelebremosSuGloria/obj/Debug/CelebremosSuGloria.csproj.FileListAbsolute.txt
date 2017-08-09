@@ -14,3 +14,7 @@ C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Deb
 C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\bin\Debug\Interop.WMPLib.dll
 C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\bin\Debug\AxInterop.WMPLib.dll
 C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_2.resources
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_3.resources
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_4.resources
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_5.resources
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Principales.Message.resources
