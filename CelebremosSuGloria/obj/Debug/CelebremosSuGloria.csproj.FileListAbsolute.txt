@@ -21,3 +21,13 @@ C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Deb
 C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_7.resources
 C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_8.resources
 C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_9.resources
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_10.resources
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_11.resources
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_12.resources
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_13.resources
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_15.resources
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_16.resources
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_17.resources
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_18.resources
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_19.resources
+C:\Users\Owner User\Desktop\GLORIA\CelebremosSuGloria\CelebremosSuGloria\obj\Debug\CelebremosSuGloria.Himnos.Himno_20.resources

@@ -207,5 +207,81 @@ namespace CelebremosSuGloria
             frm.Show();
             pnlCat1.Visible = false;
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_10 frm = new Himnos.Himno_10();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void button63_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_11 frm = new Himnos.Himno_11();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void button18_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_12 frm = new Himnos.Himno_12();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void button17_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_13 frm = new Himnos.Himno_13();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void button16_Click(object sender, EventArgs e)
+        {
+            Principales.Message frm = new Principales.Message();
+            frm.Show();
+        }
+
+        private void button15_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_15 frm = new Himnos.Himno_15();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_16 frm = new Himnos.Himno_16();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_17 frm = new Himnos.Himno_17();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_18 frm = new Himnos.Himno_18();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_19 frm = new Himnos.Himno_19();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_20 frm = new Himnos.Himno_20();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
     }
 }

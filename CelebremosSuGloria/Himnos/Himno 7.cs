@@ -20,7 +20,7 @@ namespace CelebremosSuGloria.Himnos
 
         private void Himno_7_Load(object sender, EventArgs e)
         {
-            pbcHimno2.BackgroundImage = Properties.Resources.Diapositiva40;
+            pcbHimno2.Image= CelebremosSuGloria.Properties.Resources.Diapositiva40;
             a = 1;
         }
 

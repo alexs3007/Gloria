@@ -99,9 +99,9 @@
             // pcbHimno2
             // 
             this.pcbHimno2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pcbHimno2.Location = new System.Drawing.Point(-7, -1);
+            this.pcbHimno2.Location = new System.Drawing.Point(-6, -11);
             this.pcbHimno2.Name = "pcbHimno2";
-            this.pcbHimno2.Size = new System.Drawing.Size(1378, 739);
+            this.pcbHimno2.Size = new System.Drawing.Size(1378, 780);
             this.pcbHimno2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pcbHimno2.TabIndex = 6;
             this.pcbHimno2.TabStop = false;
