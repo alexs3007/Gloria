@@ -283,5 +283,78 @@ namespace CelebremosSuGloria
             frm.Show();
             pnlCat1.Visible = false;
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+        
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_21 frm = new Himnos.Himno_21();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void button28_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_22 frm = new Himnos.Himno_22();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void button27_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_23 frm = new Himnos.Himno_23();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void button26_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_24 frm = new Himnos.Himno_24();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void button25_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_25 frm = new Himnos.Himno_25();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void button24_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_26 frm = new Himnos.Himno_26();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void button23_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_27 frm = new Himnos.Himno_27();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void button22_Click(object sender, EventArgs e)
+        {
+            Himnos.Himno_28 frm = new Himnos.Himno_28();
+            frm.Show();
+            pnlCat1.Visible = false;
+        }
+
+        private void button21_Click(object sender, EventArgs e)
+        {
+            Principales.Message frm = new Principales.Message();
+            frm.Show();
+        }
+
+        private void button20_Click(object sender, EventArgs e)
+        {
+            Principales.Message frm = new Principales.Message();
+            frm.Show();
+        }
     }
 }

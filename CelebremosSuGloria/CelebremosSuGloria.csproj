@@ -34,6 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -111,6 +112,54 @@
     </Compile>
     <Compile Include="Himnos\Himno 20.Designer.cs">
       <DependentUpon>Himno 20.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Himnos\Himno 21.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 21.Designer.cs">
+      <DependentUpon>Himno 21.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Himnos\Himno 22.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 22.Designer.cs">
+      <DependentUpon>Himno 22.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Himnos\Himno 23.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 23.Designer.cs">
+      <DependentUpon>Himno 23.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Himnos\Himno 24.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 24.Designer.cs">
+      <DependentUpon>Himno 24.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Himnos\Himno 25.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 25.Designer.cs">
+      <DependentUpon>Himno 25.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Himnos\Himno 26.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 26.Designer.cs">
+      <DependentUpon>Himno 26.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Himnos\Himno 27.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 27.Designer.cs">
+      <DependentUpon>Himno 27.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Himnos\Himno 28.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 28.Designer.cs">
+      <DependentUpon>Himno 28.cs</DependentUpon>
     </Compile>
     <Compile Include="Himnos\Himno 3.cs">
       <SubType>Form</SubType>
@@ -200,6 +249,30 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Himnos\Himno 20.resx">
       <DependentUpon>Himno 20.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 21.resx">
+      <DependentUpon>Himno 21.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 22.resx">
+      <DependentUpon>Himno 22.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 23.resx">
+      <DependentUpon>Himno 23.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 24.resx">
+      <DependentUpon>Himno 24.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 25.resx">
+      <DependentUpon>Himno 25.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 26.resx">
+      <DependentUpon>Himno 26.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 27.resx">
+      <DependentUpon>Himno 27.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 28.resx">
+      <DependentUpon>Himno 28.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Himnos\Himno 3.resx">
       <DependentUpon>Himno 3.cs</DependentUpon>
@@ -926,6 +999,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Diapositiva210.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lupa.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
