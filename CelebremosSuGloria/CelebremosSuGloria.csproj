@@ -167,11 +167,71 @@
     <Compile Include="Himnos\Himno 3.Designer.cs">
       <DependentUpon>Himno 3.cs</DependentUpon>
     </Compile>
+    <Compile Include="Himnos\Himno 31.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 31.Designer.cs">
+      <DependentUpon>Himno 31.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Himnos\Himno 32.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 32.Designer.cs">
+      <DependentUpon>Himno 32.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Himnos\Himno 33.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 33.Designer.cs">
+      <DependentUpon>Himno 33.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Himnos\Himno 34.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 34.Designer.cs">
+      <DependentUpon>Himno 34.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Himnos\Himno 35.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 35.Designer.cs">
+      <DependentUpon>Himno 35.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Himnos\Himno 36.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 36.Designer.cs">
+      <DependentUpon>Himno 36.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Himnos\Himno 37.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 37.Designer.cs">
+      <DependentUpon>Himno 37.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Himnos\Himno 38.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 38.Designer.cs">
+      <DependentUpon>Himno 38.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Himnos\Himno 39.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 39.Designer.cs">
+      <DependentUpon>Himno 39.cs</DependentUpon>
+    </Compile>
     <Compile Include="Himnos\Himno 4 .cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Himnos\Himno 4 .Designer.cs">
       <DependentUpon>Himno 4 .cs</DependentUpon>
+    </Compile>
+    <Compile Include="Himnos\Himno 40.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Himnos\Himno 40.Designer.cs">
+      <DependentUpon>Himno 40.cs</DependentUpon>
     </Compile>
     <Compile Include="Himnos\Himno 5.cs">
       <SubType>Form</SubType>
@@ -277,8 +337,38 @@
     <EmbeddedResource Include="Himnos\Himno 3.resx">
       <DependentUpon>Himno 3.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 31.resx">
+      <DependentUpon>Himno 31.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 32.resx">
+      <DependentUpon>Himno 32.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 33.resx">
+      <DependentUpon>Himno 33.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 34.resx">
+      <DependentUpon>Himno 34.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 35.resx">
+      <DependentUpon>Himno 35.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 36.resx">
+      <DependentUpon>Himno 36.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 37.resx">
+      <DependentUpon>Himno 37.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 38.resx">
+      <DependentUpon>Himno 38.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 39.resx">
+      <DependentUpon>Himno 39.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Himnos\Himno 4 .resx">
       <DependentUpon>Himno 4 .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Himnos\Himno 40.resx">
+      <DependentUpon>Himno 40.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Himnos\Himno 5.resx">
       <DependentUpon>Himno 5.cs</DependentUpon>
@@ -1002,6 +1092,189 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\lupa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva211.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva212.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva213.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva214.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva215.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva216.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva217.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva218.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva219.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva220.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva221.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva222.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva223.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva224.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva225.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva226.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva227.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva228.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva229.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva230.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva231.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva232.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva233.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva234.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva235.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva236.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva237.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva238.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva239.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva240.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva241.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva242.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva243.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva244.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva245.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva246.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva247.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva248.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva249.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva250.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva251.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva252.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva253.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva254.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva255.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva256.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva257.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva258.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva259.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva260.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva261.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva262.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva263.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva264.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva265.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva266.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva267.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva268.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva269.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva270.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diapositiva271.JPG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
